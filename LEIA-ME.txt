@@ -1,0 +1,11 @@
+SITE DEMONSTRATIVO — EQUIPE MADUREIRA
+
+Abra index.html no navegador. HTML, CSS, JavaScript, logo e imagens estão incluídos.
+Para fontes externas, mapa, notícias e links de WhatsApp, é necessária conexão com a internet.
+
+A fotografia da capa foi fornecida para esta demonstração. As imagens das modalidades são fictícias. A imagem da janela de rolagem foi fornecida pelo usuário.
+Os números de resultados estão associados a eventos e fontes específicos. Não há total de alunos matriculados sem confirmação da equipe.
+A grade específica de turmas e depoimentos reais ainda não foi informada.
+
+O efeito de janela fixa com imagem em movimento funciona ao rolar a página e respeita a preferência de movimento reduzido do navegador.
+A imagem da seção Quem somos foi fornecida pelo usuário.
